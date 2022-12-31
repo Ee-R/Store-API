@@ -3,7 +3,7 @@ const connectDB = require('./db/connect');
 const Product = require('./models/product');
 const jsonProducts = require('./products.json');
 
-/* this files is made to populate the database
+/* this files was made to populate the database
  * and start working with the features of the
  * project */
 
